@@ -1,1 +1,1 @@
-blender -b -P cube.py -- --number 5 --save './test/cube.obj'
+blender -b -P cube.py -- --number 1 --save './test/cube.obj'
